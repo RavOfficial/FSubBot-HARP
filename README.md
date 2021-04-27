@@ -4,7 +4,7 @@ A telegram bot that can force members in your group to join your channel by mute
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UvinduBro/ForceSub-Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfficialBawwa/FSubBot-HARP)
 
 > You must add the bot as admin to your channel and group with ban member permission
 
@@ -14,8 +14,8 @@ A telegram bot that can force members in your group to join your channel by mute
 
 - [This Repo](https://github.com/viperadnan-git/force-subscribe-telegram-bot)
 
-- [Uvindu Bro Co ](https://github.com/viperadnan-git/force-subscribe-telegram-bot)
+- [HARP Tech ](https://github.com/viperadnan-git/force-subscribe-telegram-bot)
 
 ### Devs:
 
-- [Uvindu Bro 🇱🇰](https://github.com/UvinduBro)
+- [Bawwa Official 🇱🇰](https://github.com/OfficialBawwa)
