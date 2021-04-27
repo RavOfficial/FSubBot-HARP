@@ -35,8 +35,8 @@ def _onUnMuteRequest(client, man):
           try:
             client.get_chat_member(channel, user_id)
             client.unban_chat_member(chat_id, user_id)
-            if lel.message.reply_to_message.from_user.id == user_id:
-              lel.message.delete()
+            if man.message.reply_to_message.from_user.id == user_id:
+              man.message.delete()
           except UserNotParticipant:
             client.answer_callback_query(man.id, text="❗ Join the mentioned 'Channel' and press the 'Unmute Me' button again.🤗", show_alert=True)
       else:
