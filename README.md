@@ -19,3 +19,4 @@ A telegram bot that can force members in your group to join your channel by mute
 ### Devs:
 
 - [Bawwa Official 🇱🇰](https://github.com/OfficialBawwa)
+- Original Repo Owners
